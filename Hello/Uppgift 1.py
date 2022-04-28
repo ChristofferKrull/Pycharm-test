@@ -2,11 +2,24 @@
 # Create a second function test_add which tests that the add function using assert
 # For instance assert add(1, 2) == 3"""
 
-def theproduktoftwonumbers(a,b):
-    return a*b
-print(theproduktoftwonumbers(6,7))
+
+def add(a, b):
+    return a * b
 
 
-def test_theproduktoftwonumbers():
-       assert (6,7) == 42
-print("Du är King")
+print(add(6, 7))
+
+print(add(7, 9))
+
+
+
+def test_add():
+    assert add(6, 7) == 42
+    assert add(7, 9) == 63
+    print("Du är king")
+
+def test_fail():
+    assert add(7, 9) == 63
+
+
+
