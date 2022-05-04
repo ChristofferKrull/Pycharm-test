@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="329e0ab2-66fa-4820-996f-e3becaa31472" name="Changes" comment="Klar med uppgift 1">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Uppgift 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Uppgift 1.py" afterDir="false" />
-    </list>
+    <list default="true" id="329e0ab2-66fa-4820-996f-e3becaa31472" name="Changes" comment="Klar med uppgift 1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -149,7 +146,13 @@
       <option name="presentableId" value="LOCAL−00004" />
       <updated>1651131009301</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL−00005" summary="Klar med uppgift 1">
+      <created>1651147412626</created>
+      <option name="number" value="LOCAL−00005" />
+      <option name="presentableId" value="LOCAL−00005" />
+      <updated>1651147412626</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
