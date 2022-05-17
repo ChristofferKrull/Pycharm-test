@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="329e0ab2-66fa-4820-996f-e3becaa31472" name="Changes" comment="Klar med uppgift 1">
+    <list default="true" id="329e0ab2-66fa-4820-996f-e3becaa31472" name="Changes" comment="Gjorde en ifsats på test">
       <change afterPath="$PROJECT_DIR$/If else.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Swap two variables.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -206,7 +206,13 @@
       <option name="presentableId" value="LOCAL−00006" />
       <updated>1651664246296</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL−00007" summary="Gjorde en ifsats på test">
+      <created>1652169360457</created>
+      <option name="number" value="LOCAL−00007" />
+      <option name="presentableId" value="LOCAL−00007" />
+      <updated>1652169360457</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -224,6 +230,7 @@
     <MESSAGE value="La till en ny sträng" />
     <MESSAGE value="La till en ny rad med efternamn" />
     <MESSAGE value="Klar med uppgift 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Klar med uppgift 1" />
+    <MESSAGE value="Gjorde en ifsats på test" />
+    <option name="LAST_COMMIT_MESSAGE" value="Gjorde en ifsats på test" />
   </component>
 </project>
