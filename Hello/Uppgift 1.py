@@ -6,20 +6,15 @@
 def add(a, b):
     return a * b
 
+def sum()
+
 
 print(add(6, 7))
 
 print(add(7, 9))
 
 
-
 def test_add():
     assert add(6, 7) == 42
     assert add(7, 9) == 63
     print("Du är king")
-
-def test_fail():
-    assert add(7, 9) == 63
-
-
-
